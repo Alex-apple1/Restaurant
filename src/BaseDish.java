@@ -7,6 +7,7 @@ public abstract class BaseDish {
         this.price = price;
     }
 
+
     public String getName() {
         return name;
     }
